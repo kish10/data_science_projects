@@ -1,0 +1,4 @@
+# Logs & other devfiles #
+*.log
+.ipynb_checkpoints/
+dsp_env_3.7.4/
