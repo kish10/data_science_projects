@@ -1,6 +1,6 @@
 # Data Science Projects
 
-Data Science Prjects to try out ideas & technologies.
+Data Science projects to try out ideas & technologies.
 
 ## Notebooks
 ### 2019 Toronto Festivals & Events
