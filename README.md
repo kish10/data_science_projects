@@ -16,6 +16,8 @@ Exploring 2019 Toronto Festivals & Events data with Altair.
   <img src="images/graphs/festivals_and_events/event_counts_per_week_by_event_category.png" width="300" /> 
 </p>
 
+- Note: Data is from Toronto Festivals & Events [live feed](https://open.toronto.ca/dataset/festivals-events/), and last updated on July/23/2019 at the time of analysis.
+
 ### Machine Learning
 #### Variational Autoencoder
 Training a Variational Autoencoder from Kingma "Autoencoding Variational Bayes" paper, to generate MNIST digits.
