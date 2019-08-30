@@ -17,7 +17,8 @@ Exploring 2019 Toronto Festivals & Events data with Altair.
 </p>
 
 ### Machine Learning
-Variational Autoencoder - from Kingma "Autoencoding Variational Bayes" paper.
+#### Variational Autoencoder
+Training a Variational Autoencoder from Kingma "Autoencoding Variational Bayes" paper, to generate MNIST digits.
 -- [Jupyter Notebook](notebooks/vae_kingma.ipynb)
 
 <p float="left">
