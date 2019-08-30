@@ -3,8 +3,11 @@
 Data Science projects to try out ideas & technologies.
 
 ## Notebooks
-### 2019 Toronto Festivals & Events
-Exploring 2019 Toronto Festivals & Events data with Altair
+
+### Visualization
+
+#### 2019 Toronto Festivals & Events
+Exploring 2019 Toronto Festivals & Events data with Altair.
 -- [Jupyter Notebook](notebooks/festivals_and_events.ipynb)
 - Note: Due to formating inconsistency the location data required significant amount of cleaning.
 
@@ -13,3 +16,11 @@ Exploring 2019 Toronto Festivals & Events data with Altair
   <img src="images/graphs/festivals_and_events/event_counts_per_week_by_event_category.png" width="300" /> 
 </p>
 
+### Machine Learning
+Variational Autoencoder - from Kingma "Autoencoding Variational Bayes" paper.
+-- [Jupyter Notebook](notebooks/vae_kingma.ipynb)
+
+<p float="left">
+  <img src="images/vae_kingma/reconstruction_0.png" width="200" />
+  <img src="images/vae_kingma/reconstruction_1.png" width="200" /> 
+</p>
