@@ -1,0 +1,8 @@
+- Implement & Train: Bayesian Linear Regression, or Bayesian PCA 
+- Implement Beta VAE
+- Do an analysis with Relative Belief
+- Causal Regression
+- pseudo NLP on Festivals & Events description
+- Implement/replicate Causal Effect Variational Autoencoder
+- Try out simpler toy version of Fair VAE examples
+- Disentangled Representation in the real world ?
